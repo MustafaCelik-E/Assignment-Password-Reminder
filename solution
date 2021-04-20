@@ -1,0 +1,8 @@
+name = input("Please enter your name: ")
+
+name_expected = "Joseph"
+
+if name.title() == name_expected:
+  print("Hello, Joseph! The password is : W@12")
+else:
+  print("Hello, Amina! See you later.")
